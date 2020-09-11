@@ -1,5 +1,8 @@
 # electron-webpack-quick-start
-Windows 10 PowerShell.  node -v v12.18.3  npm -v 6.9.0 
+Windows 10 PowerShell.  
+node -v 12.18.3  
+npm -v 6.9.0 
+electron-builder v 22.8.0
 
 It is BEST to use YARN instead of NPM.
 
